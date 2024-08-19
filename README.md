@@ -2,7 +2,7 @@
 
 👀 I’m keenly interested in various fields such as web development, app development, software development, poetry writing, dance, and more.
 
-🌱 Currently, I'm pursuing a Post Graduate Diploma in Advanced Computing (PG-DAC course) at CDAC (Centre for Development of Advanced Computing), Pune.
+🌱 Currently, I was completed a Post Graduate Diploma in Advanced Computing (PG-DAC course) at CDAC (Centre for Development of Advanced Computing), Pune.
 
 💻 Presently, I'm delving into:
    - Web Programming Technologies
